@@ -10,26 +10,7 @@ This repository presents the qualitative results of our method. Below we show:
 - rendered image comparisons for **GT** and **Pred**;
 - per-sample GT vs Pred images and additional motion videos.
 
-## Assets Structure
-assets/
-├── 1.mp4
-├── 1_gt.png
-├── 1_pred.png
-├── 2.mp4
-├── 2_gt.png
-├── 2_pred.png
-├── 3_gt.png
-├── 3_pred.png
-├── 4_gt.png
-├── 4_pred.png
-├── 5_gt.png
-├── 5_pred.png
-├── 6_gt.png
-├── 6_pred.png
-├── qualitative_comparison.mp4
-├── render_gt.png
-├── render_pred.png
-README.md
+
 
 text
 
@@ -112,10 +93,4 @@ Below we show the ground truth (GT) and prediction (Pred) images for each sample
 |:-----------------:|:-----------------:|
 | <img src="assets/6_gt.png" alt="Sample 6 GT" width="100%"> | <img src="assets/6_pred.png" alt="Sample 6 Pred" width="100%"> |
 
-## Rendering Results
 
-### Rendered images
-
-| Ground Truth (GT) | Prediction (Pred) |
-|:-----------------:|:-----------------:|
-| <img src="assets/render_gt.png" alt="Ground truth rendering" width="100%"> | <img src="assets/render_pred.png" alt="Prediction rendering" width="100%"> |
