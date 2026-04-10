@@ -12,20 +12,12 @@ This repository presents the qualitative results of our method. Below we show:
 
 
 
-text
-
 ## Qualitative Comparison
 
 ### Motion comparison (GT vs. Pred)
 
 **Left:** Ground Truth &nbsp;&nbsp;|&nbsp;&nbsp; **Right:** Prediction
 
-<p align="center">
-  <video width="100%" controls autoplay muted loop>
-    <source src="assets/qualitative_comparison.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
 <p align="center">
   <a href="assets/qualitative_comparison.mp4"><b>Click here to view the original MP4</b></a>
@@ -41,11 +33,6 @@ Below we show the ground truth (GT) and prediction (Pred) images for each sample
 |:-----------------:|:-----------------:|
 | <img src="assets/1_gt.png" alt="Sample 1 GT" width="100%"> | <img src="assets/1_pred.png" alt="Sample 1 Pred" width="100%"> |
 
-**Motion video (Sample 1):**  
-<video width="100%" controls>
-  <source src="assets/1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
@@ -55,11 +42,6 @@ Below we show the ground truth (GT) and prediction (Pred) images for each sample
 |:-----------------:|:-----------------:|
 | <img src="assets/2_gt.png" alt="Sample 2 GT" width="100%"> | <img src="assets/2_pred.png" alt="Sample 2 Pred" width="100%"> |
 
-**Motion video (Sample 2):**  
-<video width="100%" controls>
-  <source src="assets/2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
