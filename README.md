@@ -75,4 +75,10 @@ Below we show the ground truth (GT) and prediction (Pred) images for each sample
 |:-----------------:|:-----------------:|
 | <img src="assets/6_gt.png" alt="Sample 6 GT" width="100%"> | <img src="assets/6_pred.png" alt="Sample 6 Pred" width="100%"> |
 
+**eeg‑data**
 
+- Link: [https://pan.baidu.com/s/1_lOthU2Bo](https://pan.baidu.com/s/1_lOthU2Bo)‑IRc40b8oqDDA
+- Access code: `pm65`
+
+> 
+> Please note that the dataset is for research purposes only.
