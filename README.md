@@ -77,8 +77,8 @@ Below we show the ground truth (GT) and prediction (Pred) images for each sample
 
 **eeg‑data**
 
-- Link: [https://pan.baidu.com/s/1_lOthU2Bo](https://pan.baidu.com/s/1_lOthU2Bo)‑IRc40b8oqDDA
-- Access code: `pm65`
+- Link: [Download eeg-data](https://pan.baidu.com/s/1crdSlCtuOGurpyZECo4K4Q?pwd=xbdq)
+- Access code: `xbdq`
 
 > 
 > Please note that the dataset is for research purposes only.
